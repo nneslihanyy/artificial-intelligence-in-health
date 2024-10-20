@@ -4,7 +4,7 @@ This project leverages **Artificial Intelligence (AI)** and **Machine Learning (
 
 ## 🧠 Key Areas Covered:
 - 🩻 **Cancer Detection from X-ray Images**  
-- 🍬 **Diabetes Risk Prediction**  
+- 🍬 **[Diabetes Risk Prediction](https://github.com/nneslihanyy/artificial-intelligence-in-health/tree/main/Diabetes)**
 - ⚡ **Stroke Risk Prediction**  
 - ❤️ **Heart Disease Detection**  
 - 🏥 **Hospital Length of Stay Prediction**  
